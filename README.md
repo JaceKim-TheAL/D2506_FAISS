@@ -12,7 +12,7 @@
 
 ---
 ### FAISS 사용법
-- FAISS를 사용하려면 먼저 Python 환경에서 faiss 패키지를 설치해야 합니다:
+- FAISS를 사용하려면 먼저 Python 환경에서 `faiss 패키지`를 설치해야 합니다:
 
 ```shell
 pip install faiss-cpu  # CPU 버전
@@ -20,7 +20,7 @@ pip install faiss-gpu  # GPU 버전
 ```
 <br/>
 
-이후 벡터를 저장하고 검색하는 과정은 다음과 같습니다:
+이후 **벡터를 저장하고 검색하는 과정**은 다음과 같습니다:
 
 ```python 
 import faiss
