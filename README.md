@@ -43,3 +43,9 @@ print(I)  # 검색된 벡터의 인덱스 출력
 
 ```
 
+[실행결과]
+```powershell
+PS C:\GitHub\D2506_FAISS> python .\code\vector_search.py
+[[7548 5874 4044 1573 2826]]
+
+```
